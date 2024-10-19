@@ -68,7 +68,7 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 
 5. The bot can be customized to return specific information based on the query and context provided.
 
-## Running the Code
+## Running the Code:
 
 Step 1: Create Vector Store with `ingest.py`
 
@@ -87,6 +87,9 @@ To run model.py:
 ```bash
 python model.py
 ```
+## Output:
+![image](https://github.com/user-attachments/assets/3aa4a936-b84a-4c36-a053-dfca7a789fef)
+
 
 
 

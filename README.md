@@ -11,6 +11,12 @@ This project implements a question-answering (QA) system using the Llama model a
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 
+## Llama Model
+
+The Llama model used in this project can be found on Hugging Face. You can access it using the following link:
+
+[Download Llama Model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin)
+
 ## Disclaimer
 
 As of now, this repository contains only medical-related content. Users are encouraged to modify and customize the content as needed. If you remove or alter the existing PDF documents, you are free to provide your respective PDF contents to tailor the application to your specific requirements. 

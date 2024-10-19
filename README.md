@@ -11,6 +11,10 @@ This project implements a question-answering (QA) system using the Llama model a
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 
+## Disclaimer
+
+As of now, this repository contains only medical-related content. Users are encouraged to modify and customize the content as needed. If you remove or alter the existing PDF documents, you are free to provide your respective PDF contents to tailor the application to your specific requirements. 
+
 
 ## Overview
 

@@ -31,3 +31,16 @@ You can install the required libraries by running the following command in your 
 ```bash
 pip install langchain chainlit transformers sentence-transformers faiss-cpu huggingface_hub
 
+## Getting Started
+
+To get started with the Llama2 Medical Bot, you need to:
+
+1. Set up your environment and install the required packages as described in the Installation section.
+
+2. Configure your project by updating the `DB_FAISS_PATH` variable and any other custom configurations in the code.
+
+3. Prepare the language model and data as per the Langchain documentation.
+
+4. Start the bot by running the provided Python script or integrating it into your application.
+
+

@@ -9,7 +9,7 @@ This project implements a question-answering (QA) system using the Llama model a
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Running the Code](#runningtheCode)
 
 ## Llama Model
 
@@ -67,5 +67,26 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
+
+##Running the Code
+
+Step 1: Create Vector Store with `ingest.py`
+
+The first step is to ingest your PDF files and create the FAISS vector store.
+
+To run `ingest.py`:
+
+```bash
+python ingest.py
+```
+
+Step 2: Start the QA Bot with `model.py`
+
+To run model.py:
+
+```bash
+python model.py
+```
+
 
 

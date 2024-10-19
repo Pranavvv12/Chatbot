@@ -1,4 +1,4 @@
-# Chatbot-Llama2-Model
+# ChatBot-Llama2-Model
 # Llama-Based QA System with FAISS
 
 This project implements a question-answering (QA) system using the Llama model and the FAISS vector store. The application is designed to ingest PDF documents, create embeddings, and provide responses to user queries based on the content of those documents.
